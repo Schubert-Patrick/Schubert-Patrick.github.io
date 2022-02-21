@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 header {
     position: fixed;
     z-index: 1;
@@ -11,6 +13,8 @@ header {
 }
 
 .header-text {
+    font-family: 'Roboto', sans-serif;
+    color: #fcfcfc;
     position: relative;
     top: 50%;
     left: 50%;
