@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
-header {
-    /* position: fixed; */
-    z-index: 1;
-    background-color: white;
-}
-
 #title {
     padding-top: 56px;
     background-image: linear-gradient(
