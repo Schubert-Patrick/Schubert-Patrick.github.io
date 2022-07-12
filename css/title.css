@@ -6,6 +6,11 @@
         326deg, #798b97, #9ba2a8, #aeb3b7);
 }
 
+#title-hr {
+    color: #0084ff;
+    width: 30%;
+}
+
 .header-text {
     font-family: 'Roboto', sans-serif;
     color: #fcfcfc;
