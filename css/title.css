@@ -28,7 +28,7 @@
     color: #fcfcfc;
 }
 
-.img-container {
+.bg_img {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,7 +37,7 @@
 }
 
 @media all and (max-width: 879px) {
-    .bg_img .avatar {
+    .avatar {
         background-image: url("https://p-schub.lima-city.de/pschubet-000webhost/img/bewerbung.jpeg");
         background-size: contain;
         background-repeat: no-repeat;
@@ -56,8 +56,7 @@
     .title-bg-img {
         background-image: url("http://p-schub.lima-city.de/01-project-cv/img/Bild_3000px.png");
         background-repeat: no-repeat;
-        background-size: contain;
-        height: calc(100vh - 56px);
-        width: 100%;
+        background-size: cover;
+        height: 100vh;
     }
 }
