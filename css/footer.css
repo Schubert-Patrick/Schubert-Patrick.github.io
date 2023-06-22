@@ -28,13 +28,13 @@ footer {
   }
 }
 
-.footer_list > h4 {
+.footer_list h4 {
   color: #4e8bc4;
   font-size: 1.2em;
   line-height: 1.5;
 }
 
-.footer_list > li > a {
+.footer_list a {
   color: #e7e7e7;
   text-transform: uppercase;
 }
