@@ -14,15 +14,18 @@
 .header-text {
     font-family: 'Roboto', sans-serif;
     color: #fcfcfc;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
-    text-align: center;
-    line-height: 3em;
+    font-size: 2rem;
+}
+
+.header-title {
+    font-family: 'Roboto', sans-serif;
+    color: #fcfcfc;
+    font-size: 3rem;
+}
+
+.header-links, a {
+    font-family: 'Roboto', sans-serif;
+    color: #fcfcfc;
 }
 
 .img-container {
